@@ -1,0 +1,101 @@
+.vscode
+.yarn
+Backend/
+Backend - Copy/
+Coffee_MicroBackend/Coffee_Docker/docker-volumes/
+Coffee_MicroBackend/Microservices/1-gateway-service/node_modules/
+Coffee_MicroBackend/Microservices/2-notification-service/node_modules/
+Coffee_MicroBackend/Microservices/2-notification-service/coffee-service-d0c4b-firebase-adminsdk-7zruc-202daaa5b0.json
+Coffee_MicroBackend/Microservices/3-auth-service/node_modules/
+Coffee_MicroBackend/Microservices/4-order-service/node_modules/
+Coffee_MicroBackend/Microservices/5-shared-library/
+Coffee_MicroBackend/Microservices/apicalls/
+Coffee_MicroBackend/Microservices/.vscode
+Coffee_react/
+# OSX
+#
+Coffee_react_rr/.DS_Store
+Coffee_react_rr/.git
+
+
+# Xcode
+#
+Coffee_react_rr/build/
+Coffee_react_rr/*.pbxuser
+!Coffee_react_rr/default.pbxuser
+Coffee_react_rr/*.mode1v3
+!Coffee_react_rr/default.mode1v3
+Coffee_react_rr/*.mode2v3
+!Coffee_react_rr/default.mode2v3
+Coffee_react_rr/*.perspectivev3
+!Coffee_react_rr/default.perspectivev3
+Coffee_react_rr/xcuserdata
+Coffee_react_rr/*.xccheckout
+Coffee_react_rr/*.moved-aside
+Coffee_react_rr/DerivedData
+Coffee_react_rr/*.hmap
+Coffee_react_rr/*.ipa
+Coffee_react_rr/*.xcuserstate
+Coffee_react_rr/**/.xcode.env.local
+
+# Android/IntelliJ
+#
+Coffee_react_rr/build/
+Coffee_react_rr/.idea
+Coffee_react_rr/.gradle
+Coffee_react_rr/local.properties
+Coffee_react_rr/*.iml
+Coffee_react_rr/*.hprof
+Coffee_react_rr/.cxx/
+Coffee_react_rr/*.keystore
+!Coffee_react_rr/debug.keystore
+
+# node.js
+#
+Coffee_react_rr/node_modules/
+Coffee_react_rr/npm-debug.log
+Coffee_react_rr/yarn-error.log
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+Coffee_react_rr/**/fastlane/report.xml
+Coffee_react_rr/**/fastlane/Preview.html
+Coffee_react_rr/**/fastlane/screenshots
+Coffee_react_rr/**/fastlane/test_output
+
+# Bundle artifact
+Coffee_react_rr/*.jsbundle
+
+# Ruby / CocoaPods
+Coffee_react_rr/**/Pods/
+Coffee_react_rr//vendor/bundle/
+
+# Temporary files created by Metro to check the health of the file watcher
+Coffee_react_rr/.metro-health-check*
+
+# testing
+Coffee_react_rr/coverage
+
+# Yarn
+Coffee_react_rr/.yarn/*
+!Coffee_react_rr/.yarn/patches
+!Coffee_react_rr/.yarn/plugins
+!Coffee_react_rr/.yarn/releases
+!Coffee_react_rr/.yarn/sdks
+!Coffee_react_rr/.yarn/versions
+Coffee-App-React-Native/
+Gd-int/
+gg/
+New folder/
+React-Native-Chat-App-Backend-master/
+React-Native-Chat-App-Frontend-master/
+server/
+temp/
+test/
+test/.git
+try/
